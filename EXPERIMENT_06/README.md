@@ -1,5 +1,7 @@
 # Experiment 6: Stored Procedures, Validation Triggers, and Audit Logging
 
+> **Format**: This experiment is written and provided in executable `.sql` format ([experiment_06.sql](experiment_06.sql)).
+
 ## Aim
 To create a stored procedure `transfer_employee(emp_id, new_dept_id)` with input validation and custom error handling, and to implement triggers for salary business rule validation and automated audit logging, including testing edge cases.
 

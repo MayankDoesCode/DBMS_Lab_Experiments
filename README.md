@@ -2,7 +2,10 @@
 
 A comprehensive, production-grade repository of university Database Management System (DBMS) practical laboratory experiments implemented in **MySQL 8.0+**.
 
-This repository contains fully tested, idempotent SQL scripts, complete schemas, authentic sample datasets, and academic documentation for all experiments ranging from relational constraints to recursive CTEs, stored procedures, and audit triggers.
+This repository contains fully tested, idempotent SQL scripts, complete schemas, authentic sample datasets, and academic documentation for all experiments ranging from relational constraints to recursive CTEs, stored procedures, and audit triggers. All experiments are written and provided in `.sql` format.
+
+> [!NOTE]
+> All laboratory experiments are provided in executable `.sql` format.
 
 ---
 

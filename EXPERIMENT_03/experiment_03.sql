@@ -1,5 +1,6 @@
 -- ============================================================================
 -- EXPERIMENT 03: Employee-Department-Project Queries & Aggregations
+-- Format: Executable .sql script (MySQL 8.0+)
 -- ============================================================================
 -- Aim: Create an Employee-Department-Project schema. Insert at least 30 
 --      employees across 5 departments and 8 projects. Write SQL queries 

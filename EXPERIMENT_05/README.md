@@ -1,5 +1,7 @@
 # Experiment 5: Views, Updatability, and Recursive CTEs
 
+> **Format**: This experiment is written and provided in executable `.sql` format ([experiment_05.sql](experiment_05.sql)).
+
 ## Aim
 To create SQL views for department salary summaries and employee hierarchy, evaluate the updatability of views under MySQL constraints, and implement a recursive Common Table Expression (CTE) to traverse and display organizational reporting chains.
 

@@ -1,5 +1,6 @@
 -- ============================================================================
 -- EXPERIMENT 05: Views, Updatability, and Recursive CTEs
+-- Format: Executable .sql script (MySQL 8.0+)
 -- ============================================================================
 -- Aim: To create SQL views for department salary summary and employee hierarchy,
 --      test the updatability of views, and implement a recursive CTE to display

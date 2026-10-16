@@ -1,5 +1,6 @@
 -- ============================================================================
 -- EXPERIMENT 04: Joins, Subqueries, Set Operations, and EXPLAIN Execution Plans
+-- Format: Executable .sql script (MySQL 8.0+)
 -- ============================================================================
 -- Aim: Using the Employee schema, write queries with INNER JOIN, LEFT JOIN,
 --      self-join, 3-way join, correlated subqueries, EXISTS, and simulated

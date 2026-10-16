@@ -1,5 +1,6 @@
 -- ============================================================================
 -- EXPERIMENT 02: College Database Schema & Referential Integrity Constraints
+-- Format: Executable .sql script (MySQL 8.0+)
 -- ============================================================================
 -- Aim: To design and implement a College Database relational schema, create MySQL
 --      tables with Primary Key, NOT NULL, UNIQUE, ON DELETE CASCADE, and

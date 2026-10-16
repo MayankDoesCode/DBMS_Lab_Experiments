@@ -1,5 +1,7 @@
 # Experiment 4: Joins, Subqueries, Set Operations, and EXPLAIN Execution Plans
 
+> **Format**: This experiment is written and provided in executable `.sql` format ([experiment_04.sql](experiment_04.sql)).
+
 ## Aim
 Using the Employee–Department–Project relational schema, construct and execute SQL queries utilizing `INNER JOIN`, `LEFT JOIN`, self-join, 3-way join, correlated subqueries, `EXISTS`, and simulated `INTERSECT` and `EXCEPT` operations. Analyze and compare query execution plans using MySQL's `EXPLAIN` utility.
 

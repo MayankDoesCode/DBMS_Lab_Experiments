@@ -1,5 +1,6 @@
 -- ============================================================================
 -- EXPERIMENT 06: Stored Procedures, Validation Triggers, and Audit Logging
+-- Format: Executable .sql script (MySQL 8.0+)
 -- ============================================================================
 -- Aim: To create a stored procedure transfer_employee(emp_id, new_dept_id) 
 --      with validation and error handling, and to implement triggers for salary 

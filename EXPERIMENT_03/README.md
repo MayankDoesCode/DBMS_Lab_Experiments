@@ -1,5 +1,7 @@
 # Experiment 3: Employee-Department-Project Queries & Aggregations
 
+> **Format**: This experiment is written and provided in executable `.sql` format ([experiment_03.sql](experiment_03.sql)).
+
 ## Aim
 To create an Employee–Department–Project database schema, populate it with at least 30 employees distributed across 5 departments and 8 projects, and write comprehensive SQL queries demonstrating selection, projection, aggregates, `GROUP BY`, `HAVING`, `CASE` expressions, and `ORDER BY`.
 

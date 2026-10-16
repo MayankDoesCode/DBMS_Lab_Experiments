@@ -1,5 +1,7 @@
 # Experiment 2: College Database Schema & Referential Integrity Constraints
 
+> **Format**: This experiment is written and provided in executable `.sql` format ([experiment_02.sql](experiment_02.sql)).
+
 ## Aim
 To convert the E-R diagram into a relational schema for a College Database, create MySQL tables with `PRIMARY KEY`, `NOT NULL`, `UNIQUE`, `ON DELETE CASCADE`, and `ON DELETE SET NULL` constraints, insert sample records, and demonstrate referential integrity enforcement.
 
