@@ -10,7 +10,7 @@ To design an Entity-Relationship (E-R) diagram for an Indian E-Commerce platform
 ## E-R Diagrams
 
 ### 1. Conceptual E-R Model (Draw.io)
-![E-R Diagram (Draw.io)](EXPERIMENT-1.drawio.png)
+![E-R Diagram (Draw.io)](exp1.png)
 
 ### 2. Relational Entity Diagram
 ![Relational E-R Diagram](ER_Diagram.png)

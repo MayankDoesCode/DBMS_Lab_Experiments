@@ -46,7 +46,7 @@
 DBMs/
 ├── EXPERIMENT_01/               # E-Commerce E-R Model, Relational Schema & MySQL Scripts
 │   ├── experiment_01.sql        # Executable SQL (9 relational tables & constraints)
-│   ├── EXPERIMENT-1.drawio.png  # Conceptual Draw.io E-R Diagram
+│   ├── exp1.png                 # Conceptual Draw.io E-R Diagram
 │   ├── ER_Diagram.png           # Relational Entity Diagram
 │   └── README.md                # Detailed Experiment 01 Report
 ├── EXPERIMENT_02/               # College DB Schemas, Referential Actions & Integrity
