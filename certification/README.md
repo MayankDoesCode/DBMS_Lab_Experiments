@@ -2,6 +2,8 @@
 
 This directory contains verified professional industry certifications in **SQL, Database Design, and Query Optimization** awarded by **HackerRank** and **Infosys Springboard**.
 
+> 📥 **All-in-One Compilation**: [All_SQL_Certifications_Mayank_Awasthi.pdf](All_SQL_Certifications_Mayank_Awasthi.pdf) *(Merged 4-page PDF containing all verified credentials)*
+
 ---
 
 ## Certifications Summary
