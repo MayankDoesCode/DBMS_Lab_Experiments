@@ -1,6 +1,6 @@
 # Infosys Springboard Certification
 
-This folder contains the verified course completion certificate for **SQL in FSD Development** from **Infosys Springboard** awarded to **Mayank Mayank**.
+This folder contains the verified course completion certificate for **SQL in FSD Development** from **Infosys Springboard** awarded to **Mayank Awasthi**.
 
 ---
 
@@ -8,7 +8,7 @@ This folder contains the verified course completion certificate for **SQL in FSD
 
 - **Course Title**: SQL in FSD Development
 - **Issuing Organization**: Infosys Limited (Infosys Springboard)
-- **Awarded To**: Mayank Mayank
+- **Awarded To**: Mayank Awasthi
 - **Completion Date**: November 18, 2026
 - **Issue Date**: Saturday, November 21, 2026
 - **Verification Authority**: Satheesha B. Nanjappa (Senior Vice President and Head - Education, Training and Assessment, Infosys Limited)
