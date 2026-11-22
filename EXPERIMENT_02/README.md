@@ -128,3 +128,14 @@ mysql -u your_username -p < experiment_02.sql
 - **Handwritten Notes Source**: Reconstructed directly from handwritten laboratory journal entries.
 - **Title Note**: The handwritten notebook entry header reads *"To convert the E-R diagram of an Indian E-Commerce platform into relational schema..."*, while the actual schema transcribed immediately below it is the standardized 4-table College Database (`Department`, `Student`, `Course`, `Enrollment`). Both aspects have been faithfully documented.
 - **Safe Reset & Isolation**: The script creates and selects `CollegeDB` safely, orders table teardowns child-first (`Enrollment` -> `Student` -> `Course` -> `Department`) to avoid foreign key deadlocks, and keeps destructive tests commented out.
+
+---
+
+## Lab Notebook Journal Scans
+
+The original handwritten laboratory records for Experiment 2:
+- ![Lab Journal Scan 1](WhatsApp%20Image%202026-10-09%20at%2010.38.10%20AM.jpeg)
+- ![Lab Journal Scan 2](WhatsApp%20Image%202026-10-09%20at%2010.38.11%20AM%20(1).jpeg)
+- ![Lab Journal Scan 3](WhatsApp%20Image%202026-10-09%20at%2010.38.11%20AM.jpeg)
+- ![Lab Journal Scan 4](WhatsApp%20Image%202026-10-09%20at%2010.38.12%20AM.jpeg)
+
