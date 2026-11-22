@@ -80,11 +80,13 @@ DBMs/
 └── certification/               # Industry Certifications Portfolio
     ├── README.md                # Certification Overview & Verification Matrix
     ├── hackerrank/              # HackerRank SQL Series (Basic, Intermediate, Advanced)
-    │   ├── sql_basic_certificate.pdf / .png
-    │   ├── sql_intermediate_certificate.pdf / .png
-    │   └── sql_advanced_certificate.pdf / .png
+    │   ├── README.md            # HackerRank Progression Report
+    │   ├── sql_basic_certificate.pdf
+    │   ├── sql_intermediate_certificate.pdf
+    │   └── sql_advanced_certificate.pdf
     └── infosys springboard/     # Infosys Springboard SQL in Full Stack Development
-        └── sql_in_fsd_development_certificate.pdf / .png
+        ├── README.md            # Course Summary & Verification Report
+        └── sql_in_fsd_development_certificate.pdf
 ```
 
 ---
@@ -110,7 +112,7 @@ DBMs/
 - **Objective**: Design a comprehensive E-R model for an e-commerce platform and convert it into normalized tables.
 - **Tables Implemented**: `Customer`, `Address`, `Seller`, `Category`, `Product`, `Orders`, `OrderItem`, `Payment`, `Delivery`.
 - **Key Concepts**: Weak entities, composite primary keys, cardinality constraints, cascading deletes.
-- 📁 **Files**: [experiment_01.sql](EXPERIMENT_01/experiment_01.sql) | [README.md](EXPERIMENT_01/README.md) | [Draw.io Diagram](EXPERIMENT_01/EXPERIMENT-1.drawio.png)
+- 📁 **Files**: [experiment_01.sql](EXPERIMENT_01/experiment_01.sql) | [README.md](EXPERIMENT_01/README.md) | [Draw.io Diagram](EXPERIMENT_01/exp1.png)
 
 ### Experiment 02: College DB Schema & Referential Integrity
 - **Objective**: Implement a college relational database enforcing domain and referential integrity constraints.
@@ -163,16 +165,16 @@ DBMs/
 
 <div align="center">
 
-| Issuer | Certification Title | Level | Issue Date | Credential ID / Verification | Links |
+| Issuer | Certification Title | Level | Issue Date | Credential ID / Verification | Official Document |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="28"/> **HackerRank** | **SQL (Basic)** | Basic | Nov 18, 2026 | `09D8D5E120B7` | [PDF](certification/hackerrank/sql_basic_certificate.pdf) • [PNG](certification/hackerrank/sql_basic_certificate.png) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="28"/> **HackerRank** | **SQL (Intermediate)** | Intermediate | Nov 18, 2026 | `AF221311A088` | [PDF](certification/hackerrank/sql_intermediate_certificate.pdf) • [PNG](certification/hackerrank/sql_intermediate_certificate.png) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="28"/> **HackerRank** | **SQL (Advanced)** | Advanced | Nov 18, 2026 | `914D66ED9DB0` | [PDF](certification/hackerrank/sql_advanced_certificate.pdf) • [PNG](certification/hackerrank/sql_advanced_certificate.png) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="40"/> **Infosys Springboard** | **SQL in FSD Development** | Professional | Nov 21, 2026 | [verify.onwingspan.com](https://verify.onwingspan.com) | [PDF](certification/infosys%20springboard/sql_in_fsd_development_certificate.pdf) • [PNG](certification/infosys%20springboard/sql_in_fsd_development_certificate.png) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="28"/> **HackerRank** | **SQL (Basic)** | Basic | Nov 18, 2026 | `09D8D5E120B7` | [View PDF Certificate](certification/hackerrank/sql_basic_certificate.pdf) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="28"/> **HackerRank** | **SQL (Intermediate)** | Intermediate | Nov 18, 2026 | `AF221311A088` | [View PDF Certificate](certification/hackerrank/sql_intermediate_certificate.pdf) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="28"/> **HackerRank** | **SQL (Advanced)** | Advanced | Nov 18, 2026 | `914D66ED9DB0` | [View PDF Certificate](certification/hackerrank/sql_advanced_certificate.pdf) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="40"/> **Infosys Springboard** | **SQL in FSD Development** | Professional | Nov 21, 2026 | [verify.onwingspan.com](https://verify.onwingspan.com) | [View PDF Certificate](certification/infosys%20springboard/sql_in_fsd_development_certificate.pdf) |
 
 </div>
 
-> Detailed previews and verification documentation are available in the [Certifications Portfolio](certification/README.md).
+> Complete credential details and progression paths are available in the [Certifications Portfolio](certification/README.md).
 
 ---
 
@@ -209,4 +211,3 @@ mysql -u your_username -p < experiment_10.sql
 - **Domain**: Database Management Systems (DBMS) & Enterprise Relational Engineering
 - **Platform**: MySQL 8.0+ Engine
 - **License**: MIT Open Source Academic License
-

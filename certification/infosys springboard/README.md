@@ -25,10 +25,6 @@ This folder contains the verified course completion certificate for **SQL in FSD
 
 ---
 
-## Files
+## Certificate Document
 
-- [Download Certificate (PDF)](sql_in_fsd_development_certificate.pdf)
-- [View High-Resolution Preview (PNG)](sql_in_fsd_development_certificate.png)
-
-![Infosys Springboard Certificate Preview](sql_in_fsd_development_certificate.png)
-
+- [Download / View Certificate (PDF)](sql_in_fsd_development_certificate.pdf)
